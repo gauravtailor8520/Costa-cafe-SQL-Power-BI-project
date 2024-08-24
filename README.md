@@ -2,6 +2,12 @@
 
 Welcome to the **Costa Cafe Sales Project** repository! This project explores and analyzes sales data from a Costa Cafe outlet using **MySQL** for data querying and **Power BI** for visualization and reporting. The primary goal is to gain insights into customer behavior, product performance, and sales trends to improve the overall sales strategy.
 
+-------------
+
+![ezgif-2-962c3257c7](https://github.com/user-attachments/assets/f560e52a-8c8a-4532-a6d7-a99cee217935)
+
+
+
 ## 📈 Project Overview
 
 The Costa Cafe Sales Project is a data analytics initiative that aims to:
