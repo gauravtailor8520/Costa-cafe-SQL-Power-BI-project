@@ -121,6 +121,8 @@ The Costa Cafe Sales Project successfully leverages SQL and Power BI to deliver 
    git clone https://github.com/your-username/costa-cafe-sales-project.git
 
 2. For any inquiries or feedback, please reach out via Gauravtailor43@gmail.com.
+3. Check the live Dashboard of the Project here : [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGNjYTI3ZTktNWY2MC00NTBmLWJmNGMtZTdkNjljM2Y5NjkwIiwidCI6IjVlZjcxNzI0LWQxZTItNDBmMi04YjQ4LWIxMjQ4NDBmMTE1ZiJ9)
+   
 
 
 You can copy this `README.md` file and adjust the content to match your needs, such as changing the repository URL and contact details. This structure is designed to be both informative and visually appealing with the use of emojis.
